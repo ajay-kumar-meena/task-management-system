@@ -101,8 +101,9 @@ npm run preview
 
 ## Author
 
-**Ajay Kumar Meena**
 **Amit kumar Meena**
+**Ajay Kumar Meena**
+
 ---
 
 Made with React and Vite.
